@@ -1,0 +1,34 @@
+﻿// Monokai_HTML2 キーワード定義ファイル
+// CASE=False
+
+ http-equiv
+accesskey
+class
+content
+dir
+href
+lang
+onabort
+onblur
+onchange
+onclick
+ondblclick
+onfocus
+onkeydown
+onkeypress
+onkeyup
+onmousedown
+onmousemove
+onmouseout
+onmouseover
+onmouseup
+onreset
+onselect
+onsubmit
+rel
+src
+style
+tabindex
+title
+type
+xmlns
