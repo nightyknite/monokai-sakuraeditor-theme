@@ -2,18 +2,26 @@
 // CASE=False
 
 !
+!=
+!==
+$
++
 =
 case
 catch
 default
+delete
 else
 final
 for
 goto
 if
+instanceof
 new
 return
 switch
+throw
 try
+typeof
 while
 ||

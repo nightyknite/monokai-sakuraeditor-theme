@@ -1,16 +1,32 @@
 ﻿// Monokai_JS3 キーワード定義ファイル
 // CASE=False
 
+Array
+call
+clearInterval
 createElement
+data
 display
 document
+error
 focus
 function
 getElementById
 id
 insertBefore
+location
+next
 nextSibling
+nodeName
+options
 parentNode
+pathname
+prototype
+push
+setTimeout
+slice
 style
+target
 value
 var
+window
