@@ -1,0 +1,16 @@
+﻿// Monokai_JS3 キーワード定義ファイル
+// CASE=False
+
+createElement
+display
+document
+focus
+function
+getElementById
+id
+insertBefore
+nextSibling
+parentNode
+style
+value
+var
